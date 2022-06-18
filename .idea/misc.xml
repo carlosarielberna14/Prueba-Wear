@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/mobile/src/main/res/layout/activity_main.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/wear/src/main/res/drawable/common_full_open_on_phone.xml" value="0.1275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/wear/src/main/res/layout/activity_call.xml" value="0.4560669456066946" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/wear/src/main/res/layout/activity_called.xml" value="0.3956692913385827" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/wear/src/main/res/layout/activity_main.xml" value="0.4089958158995816" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/PruebaWear/wear/src/main/res/layout/call.xml" value="0.5094850948509485" />
       </map>
     </option>
   </component>
